@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Macbook M2 pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Galaxy z Fold 6",
+      "price": 500.89
+    }
+  ]
+}
